@@ -100,5 +100,5 @@ geoserver:
   shpworkspace: shp
   imageworkspace: image
   
-password:'{cipher}9a5ef317f7228340d9e0c8baf39e67e6d5937bd5b6132c285b5770494c9cefd0'
+password: '{cipher}9a5ef317f7228340d9e0c8baf39e67e6d5937bd5b6132c285b5770494c9cefd0'
   
