@@ -94,7 +94,7 @@ info:
   build.version: 1.0-SNAPSHOT
 
 geoserver:
-  url: http://6.19.22.108:28080/geoserver/
+  url: http://localhost:48080/geoserver/
   username: admin
   password: geoserver
   shpworkspace: shp
