@@ -1,8 +1,0 @@
-server:
-  port: 7079 # 端口
-
-spring:
-  profiles: dev
-  datasource:
-    password: rsmap2018
-
